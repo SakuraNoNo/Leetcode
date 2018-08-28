@@ -12,5 +12,3 @@ var getRow = function(rowIndex) {
   }
   return result
 };
-
-console.log(getRow(3))
